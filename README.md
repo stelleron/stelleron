@@ -7,7 +7,8 @@ I'm interested in everything tech - from video game development to programming l
 ## My Links
 [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyasdonti/) 
 [![Static Badge](https://img.shields.io/badge/my_blog-black?style=for-the-badge&logo=github)](https://stelleron.github.io/)
-[![Static Badge](https://img.shields.io/badge/my_email-shreyasdonti15%40gmail.com-white?style=for-the-badge&logo=gmail)](mailto:shreyasdonti15@gmail.com)
+[![Static Badge](https://img.shields.io/badge/my_email-white?style=for-the-badge&logo=gmail)
+](mailto:shreyasdonti15@gmail.com)
 
 
 
