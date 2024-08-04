@@ -5,7 +5,7 @@ I'm interested in everything tech - from video game development to programming l
 
 ## 🧑‍💻 My Technologies
 ### ⌨️ Programming Languages
-![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## 🔗 My Links
