@@ -12,4 +12,4 @@ I'm interested in everything tech - from video game development to programming l
 
 ## 📈 My Stats
 
-[![Shreyas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=stelleron&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stelleron/github-readme-stats#gh-dark-mode-only)
+[![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=stelleron)](https://github.com/anuraghazra/github-readme-stats)
