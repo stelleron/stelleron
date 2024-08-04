@@ -10,6 +10,3 @@ I'm interested in everything tech - from video game development to programming l
 [![Static Badge](https://img.shields.io/badge/my_email-white?style=for-the-badge&logo=gmail)
 ](mailto:shreyasdonti15@gmail.com)
 
-## 📈 My Stats
-
-[![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=stelleron)](https://github.com/anuraghazra/github-readme-stats)
