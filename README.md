@@ -4,13 +4,10 @@ My name is Shreyas Donti, and I'm a sophomore at the University of Massachusetts
 I'm interested in everything tech - from video game development to programming languages - to hardware and machine learning. If it's tech, I want to learn more! I'm currently learning PyTorch and TensorFlow, and the basics of network programming!
 
 ## 🧑‍💻 My Technologies
-Here is the information converted into a table format:
-
-| Category              | Badge                                                                 |
+| Category              | Badges                                                                 |
 |-----------------------|-----------------------------------------------------------------------|
-| **Programming Languages** | 
-![C Badge](https://img.shields.io/badge/C-4276c9?style=for-the-badge&logo=c&logoColor=white) | ![C++ Badge](https://img.shields.io/badge/C%2B%2B-4276c9?style=for-the-badge&logo=cplusplus)   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=e3dd22) |
-| **Web Dev**           |![React Badge](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django)
+| **Programming Languages** | ![C Badge](https://img.shields.io/badge/C-4276c9?style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-4276c9?style=for-the-badge&logo=cplusplus) ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=e3dd22) |
+| **Web Dev**           | ![React Badge](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react) ![Django Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django) |
 
 
 
