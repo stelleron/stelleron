@@ -9,7 +9,7 @@ Here is the information converted into a table format:
 | Category              | Badge                                                                 |
 |-----------------------|-----------------------------------------------------------------------|
 | **Programming Languages** | 
-![C Badge](https://img.shields.io/badge/C-4276c9?style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-4276c9?style=for-the-badge&logo=cplusplus)   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=e3dd22) |
+![C Badge](https://img.shields.io/badge/C-4276c9?style=for-the-badge&logo=c&logoColor=white) | ![C++ Badge](https://img.shields.io/badge/C%2B%2B-4276c9?style=for-the-badge&logo=cplusplus)   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=e3dd22) |
 | **Web Dev**           |![React Badge](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django)
 
 
