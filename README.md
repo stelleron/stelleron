@@ -9,6 +9,8 @@ I'm interested in everything tech - from video game development to programming l
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-4276c9?style=for-the-badge&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=e3dd22)
 
+### Web Dev 
+![Static Badge](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react)
 
 
 ## 🔗 My Links
