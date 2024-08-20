@@ -6,7 +6,7 @@ I'm interested in everything tech - from video game development to programming l
 ## 🧑‍💻 My Technologies
 | Category              | Badges                                                                 |
 |-----------------------|-----------------------------------------------------------------------|
-| **Programming Languages** | ![C Badge](https://img.shields.io/badge/C-4276c9?style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-4276c9?style=for-the-badge&logo=cplusplus) ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=e3dd22) |
+| **Programming Languages** | ![C Badge](https://img.shields.io/badge/C-4276c9?style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-4276c9?style=for-the-badge&logo=cplusplus) ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=e3dd22)  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)![Static Badge](https://img.shields.io/badge/rust-brown?style=for-the-badge&logo=rust&logoColor=white) ![Static Badge](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Static Badge](https://img.shields.io/badge/haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white) ![Static Badge](https://img.shields.io/badge/java-blue?style=for-the-badge)|
 | **Web Dev**           | ![React Badge](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react) ![Django Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django) |
 
 
