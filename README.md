@@ -4,7 +4,7 @@ My name is Shreyas Donti, and I'm a sophomore at the University of Massachusetts
 I'm interested in everything tech - from video game development to programming languages - to hardware and machine learning. If it's tech, I want to learn more! I'm currently learning PyTorch and TensorFlow, and the basics of network programming!
 
 
-[[!Shreyas' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stelleron)](https://github.com/anuraghazra/github-readme-stats)
+![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=stelleron&show_icons=true&theme=radical)
 
 
 ## 🧑‍💻 My Technologies
