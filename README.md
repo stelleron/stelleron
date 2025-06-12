@@ -1,7 +1,7 @@
 # 👋👋👋 Welcome! 
-My name is Shreyas Donti, and I'm a sophomore at the University of Massachusetts Amherst pursuing a double major in Computer Science & Electrical Engineering. Nice to meet you!
+My name is Shreyas Donti, and I'm a junior Honors student at the University of Massachusetts Amherst pursuing a double major in Computer Science & Electrical Engineering. Nice to meet you!
 
-I'm interested in everything tech - from video game development to programming languages - to hardware and machine learning. If it's tech, I want to learn more! I'm currently learning PyTorch and TensorFlow, and the basics of network programming!
+I'm interested in everything tech - from video game development to programming languages - to hardware and machine learning. If it's tech, I want to learn more! My primary interests within CS are low-level and embedded systems software, and within EE I'm hugely passionate about working with electronics and FPGAs!
 
 
 ![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=stelleron&show_icons=true&theme=radical)
