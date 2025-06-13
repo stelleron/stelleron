@@ -6,8 +6,6 @@ I'm interested in everything tech - from video game development to programming l
 ## 📊 My Stats
 ![stelleron's Stats](https://github-readme-stats.vercel.app/api?username=stelleron&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=stelleron)](https://git.io/streak-stats)
-<br>
 ![stelleron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stelleron&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 
