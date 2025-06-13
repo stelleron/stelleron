@@ -3,8 +3,10 @@ My name is Shreyas Donti, and I'm a junior Honors student at the University of M
 
 I'm interested in everything tech - from video game development to programming languages - to hardware and machine learning. If it's tech, I want to learn more! My primary interests within CS are low-level and embedded systems software, and within EE I'm hugely passionate about working with electronics and FPGAs!
 
-
-![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=stelleron&show_icons=true&theme=radical)
+## 📊 My Stats
+![stelleron's Stats](https://github-readme-stats.vercel.app/api?username=stelleron&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![stelleron's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stelleron&theme=midnight-purple&hide_border=false)
+![stelleron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stelleron&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 🧑‍💻 My Technologies
