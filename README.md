@@ -11,12 +11,12 @@ I'm interested in everything tech - from video game development to programming l
 ## 🗂️ My Projects
 |![](projects/HUM-XII.png) | **[HackUMass XII Website](https://www.hackumass.com/)** |
 |---|---|
-|![](projects/xenon.png) | **Xenon2D Game Engine** |
-|![](projects/resumegen.png) | **ResumeGen - An easy-to-use resume builder for the web** |
-|![](projects/CellSignal.png) | **Cell Signaling Simulator for HackHer413 2024**  |
-|![](projects/Chip8ScreenShot.png) | **Chip-8 Emulator in Rust** |
-|![](projects/HAR-ML.png) | **HAR Machine Learning Classifier** |
-|![](projects/Boot.png) | **Boot CLI Project Manager**  |
+|![](projects/xenon.png) | **[Xenon2D Game Engine](https://github.com/stelleron/xenon)** |
+|![](projects/resumegen.png) | **[ResumeGen - An easy-to-use resume builder for the web](https://github.com/stelleron/resume-builder-app)** |
+|![](projects/CellSignal.png) | **[Cell Signaling Simulator for HackHer413 2024](https://thelabradorscientist.github.io/Cell_Signaling_Pathway_Simulator/)**  |
+|![](projects/Chip8ScreenShot.png) | **[Chip-8 Emulator in Rust](https://github.com/stelleron/rust-emulator)** |
+|![](projects/HAR-ML.png) | **[HAR Machine Learning Classifier](https://github.com/stelleron/har-ml-classifier)** |
+|![](projects/Boot.png) | **[Boot CLI Project Manager](https://github.com/stelleron/boot-cli)**  |
 
 ## 🧑‍💻 My Technologies
 | Category              | Badges                                                                 |
