@@ -8,7 +8,14 @@ I'm interested in everything tech - from video game development to programming l
 <br>
 ![stelleron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stelleron&theme=midnight-purple&show_icons=true&hide_border=true)
 
-
+## 🗂️ My Projects
+![](projects/HUM-XII.png) | **HackUMass XII Website** |
+![](projects/xenon.png) | **Xenon2D Game Engine** |
+![](projects/resumegen.png) | **ResumeGen - An easy-to-use resume builder for the web** |
+![](projects/CellSignal.png) | **Cell Signaling Simulator for HackHer413 2024**  |
+![](projects/Chip8ScreenShot.png) | **Chip-8 Emulator in Rust** |
+![](projects/HAR-ML.png) | **HAR Machine Learning Classifier** |
+![](projects/Boot.png) | **Boot CLI Project Manager**  |
 
 ## 🧑‍💻 My Technologies
 | Category              | Badges                                                                 |
